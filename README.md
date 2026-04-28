@@ -7,7 +7,7 @@
 
 - 💻&nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/brayanchumpitaz/)**
 - 📫 How to reach me **brayanchumpitaz9@gmail.com**
-- 📝 I studied at UNDC (Universidad de Cañete) - Ingeniero de Sistemas
+- 📝 I studied at UNDC (Universidad de Cañete) - Systems Engineer
 - 📍 Based in Lima, Peru
 - 	<img src="https://komarev.com/ghpvc/?username=Brayan8Ch&label=Profile%20views&color=brightgreen&style=plastic" alt="Brayan's profile views" /> 
 	<a href="https://github.com/Brayan8Ch?tab=followers"><img src="https://img.shields.io/github/followers/Brayan8Ch?label=Followers&style=social" alt="GitHub Badge"></a>
